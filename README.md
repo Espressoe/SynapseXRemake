@@ -17,4 +17,7 @@ Also if u want to copy n paste the settings code i understand but please give me
 3. The Rest is context, just read the code and it explains itself.
 
 
+# errors
+PLEASE FOR GODS SAKE UPDATE NUGET PACKAGES!!
+READ ME.ZIP IS IMPORTANT READ AND FOLLOW DIRECTIONS!
 have fun!
